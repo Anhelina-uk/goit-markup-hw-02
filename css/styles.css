@@ -1,0 +1,117 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol,
+li {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+/*Navigation*/
+.head {
+}
+.nav-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+.nav-logo-st {
+  color: #2e2f42;
+}
+.navi {
+}
+.nav-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+/*Address*/
+.contact-adress {
+}
+.address-list {
+}
+.address-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*Main*/
+/*Hero*/
+.hero-section {
+}
+.hero-title {
+}
+.hero-btn {
+}
+/*Advantages*/
+.advantages-section {
+}
+.advantages-title-hide {
+}
+.advantages-list {
+}
+.advantages-item {
+}
+.advantages-title {
+}
+.advantages-text {
+}
+
+/*team*/
+
+.team-section {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-name {
+}
+.team-text {
+}
+
+/*Portfolio*/
+
+.portfolio-section {
+}
+.portfolio-title-main {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-title {
+}
+.portfolio-text {
+}
+
+/*Footer*/
+
+.footer-logo {
+}
+.footer-text {
+}
