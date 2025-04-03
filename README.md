@@ -1,7 +1,39 @@
 # goit-markup-hw-01
 
 **Важливі ссилкі**
-Google Fonts: https://fonts.google.com
+Google Fonts:
+https://fonts.google.com
+
+Валідатор коду:
+https://validator.w3.org
+
+Нормалізатор стилів:
+https://cdnjs.com/libraries/modern-normalize/0.1.0
+https://github.com/sindresorhus/modern-normalize
+
+Український веб-довідник по HTML і CSS:
+https://css.in.ua
+
+HTML довідник:
+https://developer.mozilla.org/ru/docs/Web/HTML
+
+CSS довідник:
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+Посібник з написання коду:
+https://codeguide.co
+
+Ваша перша HTML форма:
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
+
+Emmet комбінації:
+https://docs.emmet.io/cheat-sheet/
+
+Сервіс для перевірки на правильну вкладеність тегів:
+https://caninclude.glitch.me
+
+Словник базових термінів для розробників-початківців та дизайнерів 📔:
+https://github.com/YK911/basic-dictionary
 
 My Homework 1
 **робота з віддаленим репозиторієм**
