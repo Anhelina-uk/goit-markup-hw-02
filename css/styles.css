@@ -9,8 +9,7 @@ a {
 }
 
 ul,
-ol,
-li {
+ol {
   list-style-type: none;
 }
 
